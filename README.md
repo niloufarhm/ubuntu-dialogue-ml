@@ -1,5 +1,3 @@
-# Ubuntu Dialogue Corpus – Clustering & Classification Toolkit
-
 This repository provides a complete, reproducible pipeline for cleaning,
 visualizing, clustering, and classifying Ubuntu dialogue text data. It is
 designed for experimentation with multiple unsupervised and supervised
