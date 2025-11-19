@@ -1,0 +1,501 @@
+fault_type,component,symptom,resolution,severity,text,cluster
+,,,,,FUCK,1
+,,,,low,they stolen my car!,1
+,,,,,FUCK,1
+,,,,,FUCK,1
+,,,,,FUCK,1
+,,,,low,they stolen my car!,1
+communication_error,hackergotchi_server,server response is unexpected or incorrect,"check server logs for errors, ensure server is up and running",low,your hackergotchi can be a bum :),1
+communication_error,hackergotchi_server,server response is unexpected or incorrect,"check server logs for errors, ensure server is up and running",low,your hackergotchi can be a bum :),1
+communication issue,chatbot,incomprehensible input,clarify the input or provide a response,low,dude?,1
+communication issue,chatbot,incomprehensible input,clarify the input or provide a response template,low,dude?,1
+communication,,incomplete communication,clarify the issue,low,are you going to fix it???,1
+communication,,incomplete communication,clarify the issue,low,are you going to fix it???,1
+,,,fix on its way,low,fix on its way,1
+,,,fix on its way,low,fix on its way,1
+,,,,,thanks,1
+,,,,,thanks,1
+configuration,desktop environment,user does not customize desktop,"no action required, as normal installation does not indicate a fault",low,mine is normal installation. i don't customize my desktop,4
+configuration,desktop,no customization,uncheck the customization option or reset to default settings,low,mine is normal installation. i don't customize my desktop,4
+installation issue,cdrom,installation failure,"check cdrom drive, ensure it is properly connected and functioning",low,"#1094, cdrom install or netinstall?",1
+installation issue,cdrom,installation failure,"check cdrom drive, ensure it is properly connected and functioning",low,"#1094, cdrom install or netinstall?",1
+hardware,cdrom drive,device not recognized or not functioning,"check power supply, clean the drive, or replace the cdrom",low,"cdrom, custom (probably the same for desktop)",1
+hardware,cdrom drive,device not recognized or not functioning,"check power supply, clean the drive, or replace the cdrom",low,"cdrom, custom (probably the same for desktop)",1
+software,test script,/ not recognized,recheck the test script,low,"with the tests i did i always got the /, but i will check again later today",8
+software,test tool,/ not recognized,recheck tests,low,"with the tests i did i always got the /, but i will check again later today",8
+bug,,,fixed,low,bug fixed,1
+bug,,,fixed,low,bug fixed,1
+communication,daily system,unusual behavior or error,check for updates or restart the system,low,but what's the problem with daily?,2
+communication,daily system,unusual behavior or error,check for updates or restart the system,low,but what's the problem with daily?,2
+,,user inquiry,no specific resolution provided,low,is there any problem with it?,2
+,,user inquiry,no specific resolution provided,low,is there any problem with it?,2
+communication,user interface,user unable to understand system response,ensure the system is providing clear and concise responses,low,"no, i haven't tried it, i want to know! :)",1
+communication,user interface,user unable to understand system response,clear the user interface or rephrase the response,low,"no, i haven't tried it, i want to know! :)",1
+communication,system,unresponsive,reboot system,low,test it and let us know :-))),1
+communication issue,communication system,no response,check the communication link and ensure it is connected properly,low,test it and let us know :-))),1
+syntax_error,query,incorrect response,clarify the request,low,that's not what i asked :),1
+configuration issue,configuration settings,system already configurable,verify if the system is correctly configured and all settings are enabled,low,it is already configurable,1
+syntax_error,query,incorrect response,clarify the request,low,that's not what i asked :),1
+configuration issue,configuration settings,system already configurable,verify if the system is correctly configured and all settings are enabled,low,it is already configurable,1
+syntax_error,,undefined variable or function,check the spelling and case of the variable or function name. ensure it exists in the current scope.,low,for sure X is not,1
+syntax_error,,undefined variable or function,check the spelling and case of the variable or function name. ensure it exists in the current scope.,low,for sure X is not,1
+configuration error,pcp (powerpc),unable to determine settings,check the configuration settings in the pcp interface,low,who is responsable for setting that stuff on ppc?,1
+,,,,,1187,1
+,,,,,1187,1
+configuration error,pcp (powerpc),unable to determine settings,check the configuration settings in the pcp interface,low,who is responsable for setting that stuff on ppc?,1
+,ppc,unable to identify specific ppc packages,research and identify the specific ppc packages involved,low,i dunno really.. i don't have a ppc and i don't know all the specific ppc packages around,4
+,powerpc-utils,inability to perform a specific task,"check if the task is supported by powerpc-utils, or update to a newer version",low,but perhaps powerpc-utils could do it?,1
+communication,system,incomplete or unclear communication,clarify the message or ask for more details,low,i think kamion would have good ideas for this one,4
+,powerpc-utils,inability to perform a specific task,"check if the task is supported by powerpc-utils, or update to a newer version",low,but perhaps powerpc-utils could do it?,1
+,sysctl,system configuration issues,check sysctl.conf file for incorrect settings,low,sysctl,1
+communication,system,incomplete or unclear communication,clarify the message or ask for more details,low,i think kamion would have good ideas for this one,4
+,ppc packages,unable to identify specific ppc packages,research and identify the specific ppc packages involved,low,i dunno really.. i don't have a ppc and i don't know all the specific ppc packages around,4
+,sysctl,system configuration issues,check sysctl.conf file for incorrect settings,low,sysctl,1
+communication,season control system,inability to open hoary season,ensure warty is not in deep freeze before attempting to open hoary season,low,can we open hoary season while warty is in deep freeze?,1
+communication,system,incomplete or unclear communication,clarify the message or rephrase the communication,low,we might want to take advantage of this month time,1
+communication,season control system,inability to open hoary season,ensure warty is not in deep freeze before attempting to open hoary season,low,can we open hoary season while warty is in deep freeze?,1
+communication,system,incomplete or unclear communication,clarify the message or rephrase the communication,low,we might want to take advantage of this month time,1
+communication_error,release_schedule_system,misunderstood release schedule,clarify the release schedule in a clear and concise manner,low,otherwise hoary will have a 5 months release schedule :-),1
+communication_error,release_schedule_system,misunderstood release schedule,clarify the release schedule in a clear and concise manner,low,otherwise hoary will have a 5 months release schedule :-),1
+communication,process reqs,unspecified,clarify the requirements,low,see the process reqs,1
+communication,process reqs,unresolved communication,check process requirements,low,see the process reqs,1
+ui freeze,sounder list,preview freeze during upload requirements,restart the application or clear browser cache,low,preview freeze upload requirements on sounder list,1
+ui freeze,sounder list,preview freeze during upload requirements,restart the application or check for updates,low,preview freeze upload requirements on sounder list,1
+build,not specified in the message,build issues,check build logs for errors and fix the issues,low,there have been some build issues,1
+input-output,binary loader,"sources go in, binaries don't turn up","check binary loader for errors, ensure proper input/output paths",low,"sources go in, binaries don't turn up, etc.",4
+build,not specified in the message,build issues,check build logs for errors and fix the issues,low,there have been some build issues,1
+input-output,binary loader,"sources go in, binaries don't turn up","check binary loader for errors, ensure proper input/output paths",low,"sources go in, binaries don't turn up, etc.",4
+vision issue,display,unable to see the content,check if the display thread is properly connected and powered on. ensure there is no physical damage to the display.,low,he can still see via thread..,1
+vision,thread,vision impairment,check thread for obstructions or damage,low,he can still see via thread..,1
+configuration,ide (kdevelop),unable to locate the development environment directory,ensure the path to the kdevelop directory is correctly set in the ide's configuration settings,low,perhaps you need to point it at the dir kdevelop is in,1
+configuration,ide (kdevelop),unable to locate the directory,ensure the path to kdevelop is correctly set in the ide settings,low,perhaps you need to point it at the dir kdevelop is in,1
+query,xmms,user confusion,clarify that 'xmms' is a music player command,low,with xmms?,1
+user_query,,,the user is seeking information about a preferred player application.,low,or what player do you use,0
+software,media player,unable to play mp3s,install or update mp3 player software,low,is one able to play mp3s in Ubuntu or not?,1
+software,media player,unable to play mp3s,install mpg123 or ffmpeg,low,is one able to play mp3s in Ubuntu or not?,1
+query,xmms,user confusion,clarify that 'xmms' is a music player command,low,with xmms?,1
+user_query,,,the user is seeking information about a preferred player application.,low,or what player do you use,0
+software,alsa,cannot use alsa on ubuntu,install alsa-utils package,low,you can't use alsa on Ubuntu?,0
+software,alsa,cannot use alsa on ubuntu,install alsa-utils package,low,you can't use alsa on Ubuntu?,0
+driver_incompatibility,alsa_drivers,apps crash or behave unpredictably when trying to use oss emulation,switch apps to use esd for oss emulation,low,"we use the alsa drivers, but set apps to use esd to talk to oss emulation (more stable than the alsa libraries)",0
+driver_incompatibility,alsa_drivers,apps crash or behave unpredictably when trying to use oss emulation,use esd for oss emulation instead of alsa drivers,low,"we use the alsa drivers, but set apps to use esd to talk to oss emulation (more stable than the alsa libraries)",0
+libs exposition,libraries,libs not well exposed,documentation and api improvements,low,"it is, but the libs are not well exposed yet :-)",1
+libs exposition,libraries,libs not well exposed,documentation and exposure of libs,low,"it is, but the libs are not well exposed yet :-)",1
+,,,,low,"i have a 220R, an ultra 5 and an SS10 -> i'll help! ;)",1
+,,,,low,"i have a 220R, an ultra 5 and an SS10 -> i'll help! ;)",1
+communication,mark,unclear communication about resource allocation,mark should clarify the number of porters needed for arch foo and the placement of buildd's at the datacenter,low,no. Mark said that if there are enough porter for arch foo he will take care of placing buildd's at the datacenter,1
+performance,r220,performance inferior to u60 and t1,upgrade to u60 or t1,low,you R220 sucks compared to my U60 or my t1 ;),1
+communication,external buildds,unresolved communication issues,contact lamont,low,we'll have to sort out external buildds with lamont :),1
+,,,,low,but it's bigger and louder and manlier :-),1
+communication,ubuntu-user,no response or issue,check if the user is online or if there is a network issue,low,follow up on ubuntu-user :-),1
+communication,external buildds,unresolved communication issues,contact lamont,low,we'll have to sort out external buildds with lamont :),1
+performance,r220,performance inferior to u60 and t1,upgrade to u60 or t1,low,you R220 sucks compared to my U60 or my t1 ;),1
+communication,ubuntu-user,no response or issue,check if the user is online or if there is a network issue,low,follow up on ubuntu-user :-),1
+,,,,low,but it's bigger and louder and manlier :-),1
+communication,mark,unclear communication about resource allocation,mark should clarify the number of porters needed for arch foo and the placement of buildd's at the datacenter,low,no. Mark said that if there are enough porter for arch foo he will take care of placing buildd's at the datacenter,1
+communication,communication system,incomplete or unclear communication,clarify the communication,low,we'll have to at some stage,1
+,,system is functioning normally,no action required,low,true :-),5
+communication,buildd,no external buildd,check network connectivity or external buildd configuration,low,no external buildd,1
+communication,communication system,incomplete or unclear communication,clarify the communication,low,we'll have to at some stage,1
+,,system is functioning normally,no action required,low,true :-),5
+communication,buildd,no external buildd,check network connectivity or external buildd configuration,low,no external buildd,1
+,,,,low,we can buy one E10K and that's it,1
+,,,,low,i don't think so,4
+communication issue,email system,messages not delivered to recipients,"verify email addresses and contact details, check for any blocked emails",low,"eheh well you will have to convice: Mark, elmo, lamont & Co.",1
+communication issue,email system,messages not reaching intended recipients,"check email settings for mark, elmo, and lamont to ensure they are set to receive emails from the system.",low,"eheh well you will have to convice: Mark, elmo, lamont & Co.",1
+,,,,low,we can buy one E10K and that's it,1
+,,,,low,i don't think so,4
+syntax_or_semantics_error,user_input_or_chatbot_response,ambiguous or misunderstood input,clarify the input or rephrase the response,low,well that goes behiond my problem ;),2
+communication_error,web_interface,user unable to understand interface,rephrase instructions or improve user interface,low,well that goes behiond my problem ;),2
+communication issue,busid,communication failure,check busid discussion for troubleshooting steps,low,see busid discussion above,1
+,,,,low,not now..,1
+,,system or service is not responding,try restarting the system or service,low,not now..,1
+communication issue,busid,communication failure,check busid discussion for troubleshooting steps,low,see busid discussion above,1
+,,,,low,http://www.gnome.org/~jdub/blog/1095608125 :-),1
+,,,,low,http://www.gnome.org/~jdub/blog/1095608125 :-),1
+,,,,,knows,1
+,,,,,knows,1
+crash,trash appplet,crashing,restart the trash appplet or the system,low,is the trash appplet crashing common atm?,1
+component_crash,trash appplet,crashing,restart trash appplet,low,is the trash appplet crashing common atm?,1
+bug,,,,low,seb has filed a bug report,1
+bug,,,,low,seb has filed a bug report,1
+,,,,low,i am purist :P,1
+,,,,low,same thing these days :),5
+,,,,low,i am purist :P,1
+,,,,low,same thing these days :),5
+performance degradation,java 1.5,loads much faster,check for updates or use a newer version of java,low,java 1.5 loads _much_ faster,1
+version_mismatch,java_runtime,system hangs or crashes,update to a compatible version of java,high,java 1.4?,1
+loading time delay,java plugin,loading takes longer than expected,"check for updates, disable unnecessary browser extensions, or clear browser cache",low,any ideas why java plugin takes so long to load?,1
+performance degradation,java 1.5,loads much faster,check for updates or use a newer version of java,low,java 1.5 loads _much_ faster,1
+version_mismatch,java_runtime,system hangs or crashes,update to a compatible version of java,high,java 1.4?,1
+loading time delay,java plugin,loading takes longer than expected,"check for updates, disable unnecessary browser extensions, or clear browser cache",low,any ideas why java plugin takes so long to load?,1
+,,,,low,not yet.,1
+package_missing,software,unable to find package,search for .deb file or use package manager to install,low,noneus: how can i get 1.5 is there a .deb somewhere?,1
+query,,,check the system documentation or contact support for clarification.,low,noneus: is this blackdown or sun?,1
+installation,java runtime environment (jre),user confusion about installation,confirm installation of jre and guide user on how to check its version,low,did you install just the jre?,9
+installation,java runtime environment (jre),user confusion about installation,confirm installation of jre and guide user on how to check its version,low,did you install just the jre?,9
+query,,,check the system documentation or contact support for clarification on the terms 'blackdown' and 'sun'.,low,noneus: is this blackdown or sun?,1
+,,,,low,not yet.,1
+package_missing,software,unable to find package,search for .deb file or use package manager to install,low,noneus: how can i get 1.5 is there a .deb somewhere?,1
+,globus development,,,low,"(jdk, because I do globus development)",1
+development,globus,,check the documentation or seek support,low,"(jdk, because I do globus development)",1
+software version mismatch,ibm's software,system may not function as expected,update to the latest version,low,I use IBM's 1.4.2,0
+software version mismatch,ibm's software,system may not function as expected,update to the latest version,low,I use IBM's 1.4.2,0
+communication_error,jre_plugin,unable to determine standard jre with plugin,check if the jre is properly installed and if the plugin is enabled,low,"ah ok then, i'll give it a try, does IBM have a standard jre with plugin?",1
+software upgrade,firefox and java,java takes real long time to load,rolling back the upgrade or restarting the computer,low,"thanks, i'll try that, screwed up and tried to upgrade firefox/java on my own now java takes real long time to load",5
+communication_error,jre_plugin,unable to connect or receive response from ibm jre plugin,"ensure the jre plugin is installed and up-to-date, check network connectivity",low,"ah ok then, i'll give it a try, does IBM have a standard jre with plugin?",1
+software upgrade,firefox and java,java takes real long time to load,rolling back the upgrade or restarting the computer,low,"thanks, i'll try that, screwed up and tried to upgrade firefox/java on my own now java takes real long time to load",5
+missing_dependency,jre package,unable to find ibm jre package,visit the official ibm website or use a package manager to install the jre package,low,"can't seem to find an ibm jre package, would you happen to have a url?",1
+software_missing,ibm jre package,unable to locate ibm jre package,visit the official ibm website or use package managers like maven or npm to install the ibm jre package,low,"can't seem to find an ibm jre package, would you happen to have a url?",1
+ui error,login page,unable to create login,check if the username and password fields are filled correctly. ensure the login credentials are correct and try again.,low,you have to create a login.,1
+,,,,low,much appreciated,1
+ui error,login page,unable to create login,check if the username and password fields are filled correctly. ensure the login credentials are correct and try again.,low,you have to create a login.,1
+link error,software,unable to download,check internet connection and try again,low,https://www6.software.ibm.com/dl/lxdk/lxdk-p,1
+link error,software,unable to download,check internet connection and try again,low,https://www6.software.ibm.com/dl/lxdk/lxdk-p,1
+,,,,low,much appreciated,1
+query,ibm java,version query,check the latest version of ibm java by visiting the ibm website or using the package manager.,low,1.42 is latest IBM java?,1
+query,ibm java,version query,check the latest version of ibm java by visiting the ibm website or using the package manager.,low,1.42 is latest IBM java?,1
+software installation,j2se-common,unable to find j2se-common in ubuntu,install j2se-common using the following command: sudo apt-get install j2se-common,low,do you have j2se-common installed in ubuntu as well is ibm's java?,1
+,,,,low,for certain arches,1
+,,,,low,yes.,1
+,,,,low,for certain arches,1
+,,,,low,yes.,1
+software installation,j2se-common,unable to find j2se-common in ubuntu,install j2se-common using the following command: sudo apt-get install j2se-common,low,do you have j2se-common installed in ubuntu as well is ibm's java?,1
+,unclear,system does not respond,"check system logs for error messages, restart the system",low,I do not.,1
+,,,,low,"ok, got it",8
+,,,,low,"ok, got it",8
+,unclear,system does not respond,"check system logs for error messages, restart the system",low,I do not.,1
+java runtime environment,java applet,loading a java applet takes a really long time,try updating java runtime environment or using a different java plugin,low,"i don't know what's up, no matter what java plugin i use, it takes a really long time to load a java applet",4
+java runtime environment,java applet,loading a java applet takes a really long time,try updating the java runtime environment or using a different java plugin,low,"i don't know what's up, no matter what java plugin i use, it takes a really long time to load a java applet",4
+software compatibility,mozilla-firefox,incompatibility issues,update to a compatible version or use a different browser,low,Hoary (kernel from Warty) mixed with Debian Sid+experimental. mozilla-firefox 1.0-2 from Sid.,6
+communication_error,user_interface,user hesitation or refusal to proceed,rephrase the message or provide alternative options,low,"eh, i dare not to go there :)",1
+software_incompatibility,firefox,user confusion about version numbers,clarify version numbers or update user guide,low,are you using warty or hoary?  and firefox .9 or 1.0?,1
+communication_error,user_interface,ambiguous response,rephrase the message or ask for clarification,low,"eh, i dare not to go there :)",1
+software compatibility,mozilla-firefox,incompatibility issues,update to a compatible version or use a different browser,low,Hoary (kernel from Warty) mixed with Debian Sid+experimental. mozilla-firefox 1.0-2 from Sid.,6
+software_incompatibility,firefox,user confusion about version numbers,clearly state the version numbers and their differences,low,are you using warty or hoary?  and firefox .9 or 1.0?,1
+,web browser,user confusion,clarify the source of the web browser,low,where'd you get that mozilla-firefox from sid? ;),1
+download_error,web_browser,unable to download .deb file,"check internet connection, try downloading from a different source, ensure browser settings allow .deb file downloads",low,i can get the .deb on the web?,1
+,,,,low,it's in Sid's pool,1
+,web browser,user confusion,clarify the source of the web browser,low,where'd you get that mozilla-firefox from sid? ;),1
+,,,,low,it's in Sid's pool,1
+download_error,web_browser,unable to download .deb file,"check internet connection, try downloading from a different source, ensure browser settings allow .deb file downloads",low,i can get the .deb on the web?,1
+delayed delivery,delivery system,delayed product arrival,wait a couple days or check the delivery status,low,"sure, but I'd wait a couple days. It'll probably be in Hoary within days.",1
+communication,network interface,unstable communication,"check network interface settings, update drivers",low,but...Hoary...isn't that unstable?,1
+delayed delivery,delivery system,delayed product arrival,wait a couple days or check the delivery status,low,"sure, but I'd wait a couple days. It'll probably be in Hoary within days.",1
+communication,network interface,unstable communication,"check network interface settings, update drivers",low,but...Hoary...isn't that unstable?,1
+query,,,,low,how did you hold back and keep Warty kernel?,6
+query,,,,low,how did you hold back and keep Warty kernel?,6
+apt-pinning issue,package manager (apt),package version mismatch,check apt-pinning configuration and ensure it aligns with the desired package versions,low,"I use apt-pinning to keep the linux-* (well, kernel-related) packages pinned to warty-security",0
+apt-pinning issue,package manager (apt),package version mismatch,check apt-pinning configuration and ensure it aligns with the desired package versions,low,"I use apt-pinning to keep the linux-* (well, kernel-related) packages pinned to warty-security",0
+,,,,,indeed.,1
+,ibm's java,,,low,"ok so far IBM's java is pretty clean, fast, and seems stable (so far) :D",1
+,,,,,indeed.,1
+,ibm's java,,,low,"ok so far IBM's java is pretty clean, fast, and seems stable (so far) :D",1
+software update error,apt,system upgrade failed,wait for the error to be fixed and avoid `apt-get upgrade`,low,so just wait a day for sed error to be fixed and don't `apt-get upgrade` at this time?,4
+software update error,apt,system upgrade failed,wait for the error to be fixed and avoid `apt-get upgrade`,low,so just wait a day for sed error to be fixed and don't `apt-get upgrade` at this time?,4
+,,no visible symptom reported,no specific resolution needed as no fault reported,low,"got it, thanks",8
+,,,,low,"got it, thanks",8
+migration issue,package,migrating package to pool,fixed,low,it is already fixed. The matter of the fixed package migrating to pool is of time.,1
+migration issue,package,package not migrating to pool,the issue has been resolved. the package has been successfully migrated to the pool.,low,it is already fixed. The matter of the fixed package migrating to pool is of time.,1
+software crash,,system stops functioning,restart the system,low,"LOL, CRASH! :D",1
+software crash,,system stops functioning,restart the system,low,"LOL, CRASH! :D",1
+user_error,sed,unable to find older version of sed,use package manager to install older version of sed,low,I had no older version of sed,1
+user_error,sed,unable to find older version of sed,use package manager to install older version of sed,low,I had no older version of sed,1
+software,operating system,unrecognized error message,update to a newer version of the operating system,low,"haven't seen that, i'm running warty with UTF-8 only",6
+software,operating system,unseen error,update to a newer version of the operating system,low,"haven't seen that, i'm running warty with UTF-8 only",6
+command_execution_error,system_configuration,command not found or unexpected behavior,"ensure correct spelling and syntax, check for missing dependencies or incorrect file permissions",low,I followed the instructions but when I did: sudo nano /etc/environment,9
+syntax_error,text_processing,incorrect input,correct the input to 'they are',low,sure they are,1
+syntax_error,text_processing,incorrect input,check input for proper format,low,sure they are,1
+command_execution_error,system_configuration,command not found or unexpected behavior,"ensure correct spelling and syntax, check for missing dependencies or incorrect file permissions",low,I followed the instructions but when I did: sudo nano /etc/environment,9
+,,,"no specific symptom provided, further details are needed",low,what?,1
+,,,,,what?,1
+,,,,low,I already did that,9
+,,,,low,I already did that,9
+data integrity issue,database,files were found to be incorrect,verify and correct the data in the database,low,I didn't want to but I like I said.. I had to find the culprit and therefor I checked and both files were wrong,1
+user error,,no visible symptom,inform the user that providing instructions to others is not recommended,low,I wouldn't tell others to do it :),1
+data integrity issue,database,files were found to be incorrect,verify and correct the data in the database,low,I didn't want to but I like I said.. I had to find the culprit and therefor I checked and both files were wrong,1
+user error,,no visible symptom,inform the user that providing instructions to others is not recommended,low,I wouldn't tell others to do it :),1
+software_configuration_error,locale,error when running dpkg-reconfigure locales,"check if lang is set to a valid locale, or try setting lang to a valid locale manually",low,sudo dpkg-reconfigure locales updates LANG --> gives me that error,1
+software_configuration_error,locale,error when running dpkg-reconfigure locales,"check if lang is set to a valid locale, or try setting lang to a valid locale manually",low,sudo dpkg-reconfigure locales updates LANG --> gives me that error,1
+user error,,,ensure that the user follows the correct procedure for copying and pasting. verify that the source and destination are correctly identified.,low,I mearly copied and pasted your suggestion,1
+,,,,low,that was a sentence,1
+user error,,,ensure that the user follows the correct procedure for copying and pasting. verify that the source and destination are correctly identified.,low,I mearly copied and pasted your suggestion,1
+,,,,low,that was a sentence,1
+user mistake,,,refer to jeff's advice or documentation for the correct procedure,low,and I did that before... according to Jeff's advice,9
+,,,no action required as there are no errors.,low,sorry no errors this time,1
+,,,no action required as there are no errors.,low,sorry no errors this time,1
+user mistake,,,refer to the documentation or jeff's advice for the correct procedure,low,and I did that before... according to Jeff's advice,9
+syntax_error,command_interpreter,unexpected command received,type 'help' for command syntax,low,"after you do, type 'locales'",1
+syntax_error,command_processor,unexpected command received,correct the input to match the expected commands,low,"after you do, type 'locales'",1
+syntax_error,text_input,invalid input format,correct the input format to 'okay',low,that okay?,1
+syntax_error,text_input,invalid input format,correct the input format to 'okay',low,that okay?,1
+,,,,low,same deal,1
+,,,,low,same deal,1
+system_information_query,/etc/environment,missing or incorrect information,check the file for missing or incorrect entries,low,what's in /etc/environment now?,1
+command_not_found,/etc/environment,command not found,run 'source /etc/environment' to apply changes,low,what's in /etc/environment now?,1
+component_inspection,first component,bare and insufficient,add more components or material,low,the first one is too bare? it should have more?,1
+component_inspection,first component,bare and insufficient,add more components,low,the first one is too bare? it should have more?,1
+communication,input device,incomplete or unclear input,provide more details or rephrase the question,low,got any more input on the matter?,8
+communication,input system,no response or incomplete input,check for any network or software connectivity issues,low,got any more input on the matter?,8
+syntax_error,command_line,command not recognized,use spaces instead of commas to separate the packages,low,you can put: main restricted universe multiverse on one line can't you,1
+syntax_error,command_line,command not recognized,use spaces instead of colons to separate the components,low,you can put: main restricted universe multiverse on one line can't you,1
+xlib errors,progs,get xlib errors,check if iso and utf are correctly set in local.gen,low,I have now ISO and UTF in local.gen but I still get the xlib errors with certain progs,1
+xlib errors,progs,get xlib errors,check if iso and utf are correctly set in local.gen,low,I have now ISO and UTF in local.gen but I still get the xlib errors with certain progs,1
+,xorg,kamion and daniels thought it was/is,it has nothing to do with xorg,low,has nothing to do with xorg? Kamion and daniels thought it was/is,1
+hardware,kamion and daniels,system not responding to xorg,check system for hardware issues,low,has nothing to do with xorg? Kamion and daniels thought it was/is,1
+version_mismatch_or_conflict,software_or_application,system_stability_issues_or_unexpected_behavior,upgrade_to_latest_version_or_unpin_the_component,low,so it does.. okay I'll ride it out no biggie... just downgraded a version and pinned it,0
+version_mismatch_or_conflict,software_or_application,system_stability_issues_or_unexpected_behavior,upgrade_to_latest_version_or_unpin_the_component,low,so it does.. okay I'll ride it out no biggie... just downgraded a version and pinned it,0
+sound,gstreamer,sound is busted,install gstreamer again,low,quick question... if you remove gstreamer.. is there a chance your sound is busted,1
+configuration issue,,system behavior varies based on configuration,check and adjust configuration settings,low,depends how things are configured,1
+sound,gstreamer,sound is busted,install gstreamer again,low,quick question... if you remove gstreamer.. is there a chance your sound is busted,1
+configuration issue,,system behavior varies based on configuration,check and adjust configuration settings,low,depends how things are configured,1
+software,gstreamer,installation issues,reinstall gstreamer,low,so re installing gstreamer could fix it?,1
+software,gstreamer,installation issues,reinstall gstreamer,low,so re installing gstreamer could fix it?,1
+command_error,snd_intel8x0m,command not found,"run 'lsmod' first to check if the module is loaded, then use 'modinfo snd_intel8x0m' to verify its presence and dependencies",low,lsmod|grep snd_intel8x0m|wc -l,1
+command_error,snd_intel8x0m,command not found,"run the command 'lsmod' first to list all loaded kernel modules, then use 'grep snd_intel8x0m' to check if the module is loaded. if not, load the module using 'modprobe snd_intel8x0m'.",low,lsmod|grep snd_intel8x0m|wc -l,1
+,laptop,unspecified,specify the issue or check the laptop for any error messages,low,dell laptop?,1
+,laptop,incomplete query,specify the issue to resolve,low,dell laptop?,1
+software installation,hsf,system upgrade issue,ensure proper sequence of installation and upgrade steps,low,0 but i did install hsf deb early on then upgraded to hoary,9
+,laptop,no specific symptom mentioned,no specific resolution provided,low,and yes dell laptop sorry,1
+software installation,hsf,system upgrade issue,ensure proper sequence of installation and upgrade steps,low,0 but i did install hsf deb early on then upgraded to hoary,9
+,laptop,no specific symptom mentioned,no specific resolution provided,low,and yes dell laptop sorry,1
+,,,,low,roger,7
+hardware,sound chipset,no irq assigned,check /proc/interrupts and assign an irq to the sound chipset,low,look in /proc/interrupts and ensure an irq is being assigned to your sound chipset,1
+hardware fault,sound chipset,no irq assigned to sound chipset,check /proc/interrupts and assign an irq to the sound chipset,low,look in /proc/interrupts and ensure an irq is being assigned to your sound chipset,1
+,,,,low,roger,7
+software,snd_intel8x0,not loaded or not functioning properly,ensure snd_intel8x0 is loaded and functioning correctly,low,"and snd_intel8x0 is loaded, correct?",1
+driver,snd_intel8x0,not loaded or not functioning,reinstall or update the driver,low,"and snd_intel8x0 is loaded, correct?",1
+user_query,,,the message 'how to fix?' is a user query seeking assistance. it does not indicate a specific fault or symptom.,low,"ok, thanks! how to fix?",1
+,,,,low,nope,1
+hardware,keyboard controller,inability to recognize keyboard input,"check keyboard connection, try resetting keyboard controller",low,only thing closely resembling is i8042 would that be it?,5
+user_query,,,the message 'how to fix?' is a user query seeking assistance. it does not indicate a specific fault or symptom.,low,"ok, thanks! how to fix?",1
+hardware,keyboard controller,inability to recognize keyboard input,"check keyboard connection, try resetting keyboard controller",low,only thing closely resembling is i8042 would that be it?,5
+,,,,low,nope,1
+,,system is loaded,no specific resolution needed as the system is loaded,low,yes it is loaded,1
+,,system is loaded,no specific resolution needed as the system is loaded,low,yes it is loaded,1
+installation error,hsf,installation process is not proceeding as expected,ensure hsf is properly downloaded and try installing again,low,could be installing hsf from the get-go cause this?,1
+communication_error,,ambiguous or unrecognized command,verify the command is correct or check the documentation,low,I'm not familiar w/ 'hsf',1
+installation error,hsf,installation process is not proceeding as expected,ensure hsf is properly downloaded and try installing again,low,could be installing hsf from the get-go cause this?,1
+communication_error,,ambiguous or unrecognized command,verify the command is correct or check the documentation,low,I'm not familiar w/ 'hsf',1
+driver issue,modem drivers,linux ant modem not working properly,update or reinstall modem drivers,low,hsf linuxant modem drivers,1
+driver issue,modem drivers,linux ant modem not working properly,update or reinstall modem drivers,low,hsf linuxant modem drivers,1
+bios configuration issue,bios,printer port enabled and potentially causing conflicts,disable unused ports in bios,low,"I'd try and disable anything in bios you're not using, like a printer port (since you're already using the modem)",1
+bios configuration,bios,printer port is enabled and not needed,disable the printer port in bios settings,low,"I'd try and disable anything in bios you're not using, like a printer port (since you're already using the modem)",1
+bios,bios,limited functionality,looking into now,low,dell bios is usually pretty limited but looking into now thanks,1
+bios,bios,limited functionality,looking into now,low,dell bios is usually pretty limited but looking into now thanks,1
+hardware malfunction,soundcard,system failure to recognize soundcard,reassigning irq to soundcard or reinstalling soundcard driver,low,indeed.  you are the man.  i disabled as much as possible in bios and not soundcard is assigned an irq is it?  wonder why all of a sudden this needed to be done?  maybe because modem driver was properly installed?,1
+hardware malfunction,soundcard,system failure to recognize soundcard,reassigning irq to soundcard or reinstalling soundcard driver,low,indeed.  you are the man.  i disabled as much as possible in bios and not soundcard is assigned an irq is it?  wonder why all of a sudden this needed to be done?  maybe because modem driver was properly installed?,1
+hardware,intel 8259a,error messages related to snd-intel8x0m or irq issues,check for proper loading of snd-intel8x0m and ensure that all irqs are assigned,low,"I've seen the error quite a few times with snd-intel8x0m being loaded, or an irq not being assigned, etc.",1
+hardware,intel 8259a,error with snd-intel8x0m driver or irq not assigned,check for proper driver installation and irq assignment,low,"I've seen the error quite a few times with snd-intel8x0m being loaded, or an irq not being assigned, etc.",1
+software,apm (advanced power management),apm not working,"check apm settings, ensure acpi support is enabled and updated in ubuntu",low,can't get apm working with it and ubuntu and acpi support is iffy at this point,1
+bios issues,bios,multiple issues observed,reinstall bios or update to latest version,low,this bios has multiple issues actually :),1
+bios issues,bios,multiple issues observed,reinstall bios or update to latest version,low,this bios has multiple issues actually :),1
+hardware,bios,system not functioning as expected,reinstall bios or update to latest version,low,"seems to be a problem with that bios, but I'm not certain.",2
+software,apm (advanced power management),apm not working,"check apm settings, ensure acpi support is enabled and updated in ubuntu",low,can't get apm working with it and ubuntu and acpi support is iffy at this point,1
+hardware,bios,system not functioning as expected,reinstall bios or update to latest version,low,"seems to be a problem with that bios, but I'm not certain.",2
+implementation,menu system,,review and test the new implementation,low,new menu system implementation,3
+implementation,menu system,,review and test the new implementation,low,new menu system implementation,3
+,,,,,tasty,1
+,,,,,tasty,1
+communication,network,communication failure,check network connectivity,low,not flaming are we? well atleast not I,1
+communication,network,inconsistent communication,check network connectivity and resend messages,low,not flaming are we? well atleast not I,1
+communication,team,inaction or lack of leadership,identify a team leader or a person to take the initiative,low,someone has to step up to the plate,1
+unspecified,unspecified,unspecified,fix for hoary,low,"we can't fix that for warty, but we could fix that for hoary",1
+unspecified,unspecified,unspecified,unspecified,low,"we can't fix that for warty, but we could fix that for hoary",1
+,unclear,unclear,unclear,low,I didn't expect it for warty.. just hoping things will be a tad smoother in hoary when it concerns burning,1
+communication,team,inaction or lack of leadership,identify a team member to take the lead,low,someone has to step up to the plate,1
+,unclear,unclear,unclear,low,I didn't expect it for warty.. just hoping things will be a tad smoother in hoary when it concerns burning,1
+user error,gnomebaker,user confusion about the name 'gnomebaker',clarify the name or provide a more detailed description of gnomebaker's features and benefits,low,"I think gnomebaker looks promising, I know I would be very happy if I could just stick with 'just' gnome",4
+user error,gnomebaker,user confusion,clarify the name or function of gnomebaker,low,"I think gnomebaker looks promising, I know I would be very happy if I could just stick with 'just' gnome",4
+software update,linux distribution,system instability or unexpected behavior after dist-upgrade,perform a clean installation or rollback to a previous version,low,I read that doing a dist-upgrade is not always a good thing.. that true?,5
+software update issue,package manager (dist-upgrade),unclear or misleading information about the dist-upgrade process,consult the official documentation or community forums for detailed information about the dist-upgrade process and its potential risks,low,I read that doing a dist-upgrade is not always a good thing.. that true?,5
+software issue,synaptic package manager and apt,"different solutions to problems, often causing issues","check for updates, ensure correct package versions, use apt instead of synaptic when possible",low,I also noticed that synaptic and apt give two different solutions to things.. most of the time when something goes bork it was synaptic that did it,9
+software issue,synaptic package manager and apt,"different solutions to problems, often leading to system instability","check for updates, ensure all packages are up to date, and consider using apt instead of synaptic for certain tasks",low,I also noticed that synaptic and apt give two different solutions to things.. most of the time when something goes bork it was synaptic that did it,9
+usererror,,user is confused or misinterpreting the system,clarify the purpose or functionality of the system to the user,low,I take it that that isn't for me :P,1
+usererror,,user is confused or misinterpreting the system,clarify the purpose or functionality of the system to the user,low,I take it that that isn't for me :P,1
+communication,speaker,unable to hear audio,check if the speaker is turned on and if the volume is not muted,low,I heard .. I wish I could have been there,1
+communication,speaker,unable to hear audio,check if the speaker is turned on and if the audio output is set to the correct device,low,I heard .. I wish I could have been there,1
+communication,conference,no technical issues reported,no action required,low,we had a great debian/ubuntu women bof yesterday,1
+display,monitor,no display output,"check power supply, ensure cable connections",low,should have minutes out soon,1
+communication,conference,no technical issues reported,no action required,low,we had a great debian/ubuntu women bof yesterday,1
+display,monitor,no display output,"check power supply, ensure cable connections",low,should have minutes out soon,1
+user error,,user unaware of debian women and linuxchix communities,educate the user about debian women and linuxchix communities,low,I am glad that there is 'more' out there.. I never heard of debian women or linuxchix before,1
+,,,,low,whoa! you should join up :),1
+,,,,low,whoa! you should join up :),1
+user error,,user unaware of debian women and linuxchix communities,educate the user about debian women and linuxchix communities,low,I am glad that there is 'more' out there.. I never heard of debian women or linuxchix before,1
+,,,,low,I am/did!,9
+communication,wiki page,no plans for ubuntu,start a wiki page,low,no plans so far for ubuntu - perhaps we should start a wiki page,3
+communication,communication channel,misunderstanding or miscommunication,clarification,low,yes.. and whatever you are planning... you can count me in,1
+,,,,low,we should have something cool for ubuntu too :),1
+,,,,low,we should have something cool for ubuntu too :),1
+,,,,low,I am/did!,9
+communication,wiki page,no plans for ubuntu,start a wiki page,low,no plans so far for ubuntu - perhaps we should start a wiki page,3
+communication,communication channel,misunderstanding or miscommunication,clarification,low,yes.. and whatever you are planning... you can count me in,1
+communication,wiki,missing or incorrect links,add missing links to nix pages for women,low,it might be a good idea to put on that wiki links to nix pages for women,5
+communication,wiki,incomplete or unclear information,provide additional links to relevant pages,low,it might be a good idea to put on that wiki links to nix pages for women,5
+network_configuration,ssh_server,ssh service only listens on tcp6 (ipv6),edit the ssh configuration file (usually /etc/ssh/sshd_config) and ensure the line 'listenaddress *' or 'listenaddress 0.0.0.0' is uncommented and not set to 'listenaddress ::'. restart the ssh service afterwards.,low,why is ssh only listening on tcp6?,1
+network_configuration,ssh_server,ssh service only listens on tcp6 (ipv6),check the ssh configuration file (usually /etc/ssh/sshd_config) and ensure the line 'addressfamily all' or 'addressfamily any' is not commented out. restart the ssh service after making changes.,low,why is ssh only listening on tcp6?,1
+,,incomprehensible input,interpret the input as a command or request,low,huh?,1
+network_configuration,ssh_service,ssh service not listening on all available protocols,ensure ssh service is configured to listen on both tcp and tcp6 (ipv4 and ipv6). check the ssh service configuration file (usually /etc/ssh/sshd_config) and make sure the listenaddress is set to 0.0.0.0 or :: (all interfaces). restart the ssh service after making changes.,low,"sorry, netstat -tupan says ssh is listening on 'tcp6' is that ipv6 only?",1
+syntax_error,code,incorrect grammar or syntax,check the grammar and syntax of the code,low,"no, that includes IPv4",1
+network_configuration,ssh_service,ssh service not listening on all available protocols,ensure ssh service is configured to listen on both tcp and tcp6 (ipv4 and ipv6). check the ssh service configuration file (usually /etc/ssh/sshd_config) and make sure the listenaddress is set to 0.0.0.0 or :: (all interfaces). restart the ssh service after making changes.,low,"sorry, netstat -tupan says ssh is listening on 'tcp6' is that ipv6 only?",1
+syntax_error,code,incorrect grammar or syntax,check the grammar and syntax of the code,low,"no, that includes IPv4",1
+,,incomprehensible input,interpret the input as a command or request,low,huh?,1
+software,ssh-server,ssh connection to localhost fails,install openssh-server and try 'ssh localhost' again,low,do you have openssh-server installed? if so can you real quick 'ssh localhost' let me know if it works? if you are running unstable...,1
+software,ssh-server,ssh connection to localhost fails,install openssh-server and try 'ssh localhost' again,low,do you have openssh-server installed? if so can you real quick 'ssh localhost' let me know if it works? if you are running unstable...,1
+,,,no action required,low,it's fine.,1
+,,,no action required,low,it's fine.,1
+,,,,,on the wiki.,1
+,,,,low,roger that :),7
+,,,,low,roger that :),7
+,,,,,on the wiki.,1
+,,any more broken than normal,no further information provided,low,any more broken than normal? no.,1
+,,any more broken than normal,no further information provided,low,any more broken than normal? no.,1
+hardware,usb mp3 player,"hangs, latest isn't in sid","check if the latest version is installed, or try a fresh installation",low,"can't get my usb mp3 player to fire up with gnomad2, it just hangs, and latest isn't in SID yet, which i need as it's a new player",1
+hardware,usb mp3 player,"hangs, latest isn't in sid","check if the latest version is installed, or try a fresh installation",low,"can't get my usb mp3 player to fire up with gnomad2, it just hangs, and latest isn't in SID yet, which i need as it's a new player",1
+,build system,unable to create a distribution package,use 'dpkg-buildpackage' or 'dpkg-source -b' depending on the package format and requirements,low,what is the command to make a dep out of a source package?  'make dist' ?,5
+,,,,low,dep/deb,1
+,,,,low,dep/deb,1
+,build system,unable to create a distribution package,use 'dpkg-buildpackage' or 'dpkg-source -b' depending on the package format and requirements,low,what is the command to make a dep out of a source package?  'make dist' ?,5
+syntax_error,code_parser,"runtime error, package loading failure","check the syntax of the problematic packages, ensure all required dependencies are installed",low,"no, it's more complicated than that for some packages.",0
+user_error,,user is unable to determine the application for which the action is intended,clarify the purpose of the action to the user,low,for what application are you attempting this?,1
+user_interface,command_line_interface,user unable to determine intended application,inform user that the message is a prompt asking for the application name or function,low,for what application are you attempting this?,1
+syntax_error,code_parser,"runtime error, package loading failure","check the syntax of the problematic packages, ensure all required dependencies are installed",low,"no, it's more complicated than that for some packages.",0
+missing,debian subdir,missing debian subdir,create debian subdir,low,there is 'debian' subdir,1
+,libnjb,undefined symptom,undefined resolution,low,libnjb,1
+missing,debian subdir,missing debian subdir,create debian subdir,low,there is 'debian' subdir,1
+,libnjb,undefined symptom,undefined resolution,low,libnjb,1
+query,x.org development packages,unable to identify specific package,use package manager search feature to find the package,low,which x.org devel package?,1
+query,x.org development packages,unable to identify specific package,use package manager search feature to find the package,low,which x.org devel package?,1
+missing_package,software,unable to find package xorg-devel,install xorg-devel using package manager,low,um there is no xorg-devel ?,1
+missing_package,software,unable to find package xorg-devel,install xorg-devel using package manager,low,um there is no xorg-devel ?,1
+,,,,,what issues?,1
+,,,,,what issues?,1
+soundcard selection issue,soundcard,"sound issues, unable to select the right soundcard","check soundcard drivers, ensure correct installation",low,"like if two soundcards doesn't select the right one or something, i just remember having sound issues upon initial install of warty",6
+soundcard selection issue,soundcard,sound issues upon initial install,"check sound settings, ensure correct soundcard is selected",low,"like if two soundcards doesn't select the right one or something, i just remember having sound issues upon initial install of warty",6
+communication,text messaging,misunderstanding,clarify the amount of items to be returned,low,but i think gave my neighbor too much going to take some back for school,4
+communication,neighbor,misunderstood instructions,clarify the quantity and recipients,low,"i gave my neighbor a bunch, he knows all the kids in town, and going to hand em out at school :D",1
+communication,text messaging,misunderstanding,clarify the amount of items to be returned,low,but i think gave my neighbor too much going to take some back for school,4
+communication,neighbor,misunderstood instructions,clarify the quantity and recipients,low,"i gave my neighbor a bunch, he knows all the kids in town, and going to hand em out at school :D",1
+usererror,,laptop not responding or not starting,ensure the laptop is properly plugged in and the power adapter is working. try booting the laptop in safe mode.,low,"i'll fire up laptop and check, one sec",8
+usererror,,laptop not responding or not starting,ensure the laptop is properly plugged in and the power adapter is working. try restarting the laptop.,low,"i'll fire up laptop and check, one sec",8
+,,,,low,"yep, broken, sorry about that",1
+,,,,low,"yep, broken, sorry about that",1
+package_dependencies,"libarts0, libfrididi0, libggi2, libungif4g",system instability or failure to start,update or reinstall the missing packages,low,"libarts0, libfrididi0, libggi2, libungif4g",1
+package_conflict,mplayer-586,choked on packages,check for outdated or conflicting packages,low,what packages did mplayer-586 [for warty]  choke on?,6
+package_conflict,mplayer-586,choked on packages,check for outdated or conflicting packages,low,what packages did mplayer-586 [for warty]  choke on?,6
+package_dependencies,"libarts0, libfrididi0, libggi2, libungif4g",system instability or failure to start,update or reinstall the missing packages,low,"libarts0, libfrididi0, libggi2, libungif4g",1
+software upgrade/downgrade issue,,system fails to downgrade as expected,refer to the wiki for correct downgrade steps,low,attempting the downgrade as mentioned per the wiki,1
+backporting error,packages,unable to locate the packages,wait for the backporting process to finish and follow the instructions provided,low,"I'm backporting it from hoary; if you're willing to try the packages, I'll let you know from where to grab them when it finishes.",1
+software upgrade/downgrade issue,,system fails to downgrade successfully,refer to the wiki for correct downgrade steps,low,attempting the downgrade as mentioned per the wiki,1
+,,,,low,"awesome, of course :)",1
+backporting error,packages,unable to locate the packages,wait for the backporting process to finish and follow the instructions provided,low,"I'm backporting it from hoary; if you're willing to try the packages, I'll let you know from where to grab them when it finishes.",1
+,,,,low,"awesome, of course :)",1
+network,ping command,no response or delayed response,"check network connectivity, ensure ping is not blocked by firewall",low,ping,1
+network,ping command,no response or delayed response,"check network connectivity, ensure ping is not blocked by firewall",low,ping,1
+,,system downgrade did not resolve the issue,reverting to previous version or performing a system restore,low,the downgrade seemed to work :D,1
+,,system downgrade did not resolve the issue,reverting to previous version or performing a system restore,low,the downgrade seemed to work :D,1
+,,,,low,excellent.,1
+,,,,low,excellent.,1
+command_not_found,shell,command not found,"use 'which' or 'whereis' to find the executable, or install the missing package",low,otherwise man <shell>,1
+system limit exceeded,shell or command interpreter,command execution failure,increase ulimit value,low,well there is an ulimit(3),1
+documentation,shell script,no man page for ulimit,check if ulimit is defined in the script or if it's a typo in the command,low,ulimit is an internal sh. there is no man page.,1
+documentation,shell script,no man page for ulimit,check if ulimit is documented in other man pages or online resources,low,ulimit is an internal sh. there is no man page.,1
+system limit exceeded,shell or command interpreter,command execution failure,increase ulimit value,low,well there is an ulimit(3),1
+command_not_found,shell,command not found,"use 'which' or 'whereis' to find the executable, or install the missing package",low,otherwise man <shell>,1
+,,,,low,"yeah, just dawning on that",1
+,,,,low,"yeah, just dawning on that",1
+software,media player,issues with playback,update gmplayer or mplayer,low,"there are a few issues with gmplayer of that mplayer, /query ?",1
+software,media player,issues with playback,update gmplayer or mplayer to the latest version,low,"there are a few issues with gmplayer of that mplayer, /query ?",1
+,,,,low,have you run across any?,1
+software,media player,inability to play certain files,update gmplayer to the latest version,low,"yes, a few with gmplayer",1
+,,,,,"two, actually",1
+,,spill,clean up the spill and check for any damage,low,spill.,1
+,,spill,clean up the spill and check for any damage,low,spill.,1
+,,,,,"two, actually",1
+software,media player,inability to play certain files,update gmplayer to the latest version,low,"yes, a few with gmplayer",1
+,,,,low,have you run across any?,1
+performance issue,gmplayer,no hang,"check for updates, restart gmplayer, use alternative player",low,ok when i start gmplayer in terminal there is no hang,3
+software,media player,gmplayer hangs for a few seconds when starting,check mplayer.conf and set default xo=xv for fullscreen,low,"(1) when gmplayer starts the rotary (hourglass) hangs for a few seconds like it's waiting for something to initialize and (2) nevermind, and issue in my mplayer.conf :) and (3) might set the default xo=xv so that when 'f' key for fullscreen, image isn't centered in middle of screen but does take up full screen?  the first is the only real issue though.  let me run gmplayer in terminal",1
+start-up issue,menu,system does not start from menu,check if the menu option is enabled and accessible,low,only when i start it from menu,3
+software,media player,user unable to use the software,try a different media player,low,i don't use gmplayer really but...,4
+software,media player,gmplayer hangs for a few seconds when starting,check mplayer.conf and set default xo=xv for fullscreen,low,"(1) when gmplayer starts the rotary (hourglass) hangs for a few seconds like it's waiting for something to initialize and (2) nevermind, and issue in my mplayer.conf :) and (3) might set the default xo=xv so that when 'f' key for fullscreen, image isn't centered in middle of screen but does take up full screen?  the first is the only real issue though.  let me run gmplayer in terminal",1
+start-up issue,menu,system does not start from menu,check if the menu option is enabled and accessible,low,only when i start it from menu,3
+software,media player,user unable to use the software,try a different media player,low,i don't use gmplayer really but...,4
+performance issue,gmplayer,no hang,"check for updates, restart gmplayer, use alternative player",low,ok when i start gmplayer in terminal there is no hang,3
+user input error,menu entry,user unable to identify correct entry,direct user to the correct entry in the menu,low,I will take a look at the menu entry,3
+user interaction,menu entry,user unable to access menu entry,check if the menu entry is enabled and accessible,low,I will take a look at the menu entry,3
+syntax error,command interpreter,invalid input format,"ensure input follows the correct format (e.g., (2) or (3))",low,don't understand (2) or (3),4
+syntax error,command interpreter,invalid input format,"ensure input follows the correct format (e.g., (2) or (3))",low,don't understand (2) or (3),4
+driver_incompatibility,xv,system performance degradation,update drivers to ensure compatibility with xv,low,xv is optimised for the drivers that support it properly,1
+,,,,low,thanks for notifying.,1
+,x11,not mentioned,not mentioned,low,nevermind on (2) and (3) x11 is safer? nevermind on that one as well :),1
+software,xv,broken on some chipsets,use x11 as a safer default,low,"x11 is a safer default, because xv is broken on some chipsets",1
+software,xv,broken on some chipsets,use x11 as a safer default,low,"x11 is a safer default, because xv is broken on some chipsets",1
+,x11,not mentioned,not mentioned,low,nevermind on (2) and (3) x11 is safer? nevermind on that one as well :),1
+,,,,low,thanks for notifying.,1
+driver_incompatibility,xv,system performance degradation,update drivers to ensure compatibility with xv,low,xv is optimised for the drivers that support it properly,1
+kernel compatibility issue,kernel,system instability or unexpected behavior,downgrade to a compatible kernel version,low,think it's safe to use hoary 2.6.10 kernel in warty?,6
+user interface,menu entry,application does not launch,ensure the application is correctly installed and the system is up to date,low,only probs can find then is when launched from menu entry,3
+user interface,menu entry,application does not launch,check if the application is properly installed and if the menu entry points to the correct executable,low,only probs can find then is when launched from menu entry,3
+kernel compatibility issue,kernel,system instability or unexpected behavior,downgrade to a compatible kernel version,low,think it's safe to use hoary 2.6.10 kernel in warty?,6
+driver_conflict,nvidia and ati drivers,binary-only drivers causing issues,use warty's driver,low,"your call, though I advise you to stick with Warty's if you use the binary-only Nvidia or ATI driver.",0
+driver_incompatibility,graphics_driver,system instability or performance issues,revert to warty's driver or use a more compatible open-source driver,low,"your call, though I advise you to stick with Warty's if you use the binary-only Nvidia or ATI driver.",0
+,,no visible symptom reported,no specific resolution needed as no fault reported,low,"got it, thanks",8
+,,,,low,"got it, thanks",8
+application_crash,media_player,application does not start,check if the application is compatible with the current system or reinstall the previous version,low,did starting gmplayer from the menu work in a previous mplayer build?,3
+application_crash,media_player,application does not start,check if the application is compatible with the current system or reinstall the previous version,low,did starting gmplayer from the menu work in a previous mplayer build?,3
+missing_feature,system_manager,lack of equivalent to ntsysv on ubuntu/debian for managing init scripts,use upstart or systemd for managing init scripts on ubuntu/debian,low,know how redhat has ntsysv ncurses based app does ubuntu/debian have anything similar for handling init scripts?,1
+missing_feature,system_manager,lack of equivalent to ntsysv on ubuntu/debian for managing init scripts,"use upstart, systemd, or alternatives like anacron for managing init scripts on ubuntu/debian",low,know how redhat has ntsysv ncurses based app does ubuntu/debian have anything similar for handling init scripts?,1
+service management,system services,service not starting or stopping as expected,check if the service is enabled in /etc/init.d or /etc/rc.d/rc.local,low,update-rc.d,1
+system service,system initialization,service not starting or stopping as expected,"check service status, use chkconfig or update-rc.d to manage service",low,update-rc.d,1
+system service update failure,system service update-rc.d,system update process failing with errors,"check the update-rc.d script for errors, or revert to a previous working configuration",medium,fscking update-rc.d fscking giving me fscking headaches,1
+system service update failure,system service update-rc.d,system hangs or errors during update,"check if the service is enabled, disable and re-enable the service, or use the update-rc.d --force option",medium,fscking update-rc.d fscking giving me fscking headaches,1
+software malfunction,gmplayer application,menu entry malfunction,reinstall gmplayer or contact software support,low,there must be something awry with your menu entry for gmplayer. Someone else attests that it executes perfectly.,3
+software,gmplayer,menu entry not functioning as expected,contact software support for further assistance,low,there must be something awry with your menu entry for gmplayer. Someone else attests that it executes perfectly.,3
+software downgrade issue,operating system,system not working as expected,reverting to previous version or performing system restore,low,"you're right, sorry about that, it's probably on my end as i did an downgrade from hoary to wary, thanks, anymore testing i can do let me know, i should have mentioned that beforehand, but it works!",9
+software_upgrade_issue,operating_system,system not functioning as expected,reverting to previous version or performing a clean install of the operating system,low,"you're right, sorry about that, it's probably on my end as i did an downgrade from hoary to wary, thanks, anymore testing i can do let me know, i should have mentioned that beforehand, but it works!",9
+menu entry malfunction,gnome desktop environment,menu entry not functioning as expected,try deleting ~/.gconf and ~/.gconfd,low,how to fix the menu entry?  anything like delete ~/.gconf or?,3
+menu entry malfunction,gnome desktop environment,menu entry not appearing or not responding,try deleting ~/.gconf and ~/.gconfd,low,how to fix the menu entry?  anything like delete ~/.gconf or?,3
+software malfunction,gnome terminal,gnome-terminal background not set to fbsplash image,check if fbsplash is enabled and set the gnome-terminal background to fbsplash image,low,know if when hoary ships fbsplash will be enabled and if so will default gnome-terminal background be the fbsplash image file?,1
+software malfunction,gnome terminal,gnome-terminal background not set to fbsplash image,check if fbsplash is enabled and set the gnome-terminal background to fbsplash image,low,know if when hoary ships fbsplash will be enabled and if so will default gnome-terminal background be the fbsplash image file?,1
+,,,,low,ok thanks,1
+,jdub,no clear indication of a specific fault,more information needed from jdub,low,"to be honest, I have no idea; jdub probably has a much clearer idea.",1
+,,,,low,ok thanks,1
+,jdub,no clear indication of a specific fault,more information needed from jdub,low,"to be honest, I have no idea; jdub probably has a much clearer idea.",1
+software,web browsers,unresponsive or non-functional,restart the browser or update the software,low,"links, w3m, lynx, ...",1
+software,web browsers,unresponsive or non-functional,update browser or try another tool,low,"links, w3m, lynx, ...",1
+configuration_error,muttrc,unable to locate or access /etc/muttrc,"ensure the file exists and is accessible, check the spelling and case of the filename",low,can you dcc me /etc/Muttrc that ships with mutt?,1
+configuration error,muttrc file,unable to locate or access /etc/muttrc,ensure the file path is correct and the file exists in /etc,low,can you dcc me /etc/Muttrc that ships with mutt?,1
+configuration error,firestarter and networked filesystems,"system instability, frequent crashes","review and correct configuration settings, ensure compatibility",low,it was stupid firestarter and networked filesystems,1
+configuration error,firestarter and networked filesystems,"system instability, frequent crashes","review and correct configuration settings, ensure compatibility",low,it was stupid firestarter and networked filesystems,1
+permission_denial,system,apps not working as expected,revert to normal user mode and try again,low,"hi, i've ran a few apps under 'sudo -s' now things are messed up, is there any way to recover?",1
+command execution error,command line interface (cli),ambiguous or unexpected output,check the executed commands for errors or missing parameters,low,that depends entirely on what you commands you executed.,1
+permission_denial,system,apps not working as expected,revert to normal user mode and try again,low,"hi, i've ran a few apps under 'sudo -s' now things are messed up, is there any way to recover?",1
+command execution error,command line interface (cli),ambiguous or unexpected output,check the executed commands for errors or missing parameters,low,that depends entirely on what you commands you executed.,1
+,,,,low,"guarddog, lokkit, firestarter, i think is all",4
+,,,,low,"guarddog, lokkit, firestarter, i think is all",4
+system,gnome,"ls -l not responding, gnome panels messed up, nautilus not starting","check system logs for errors, restart gnome session, update or reinstall gnome packages",medium,now ls -l doesn't respond and gnome panels are messed up and nautilus can't start,3
+system,gnome,"ls -l not responding, gnome panels messed up, nautilus not starting","check system logs for errors, restart gnome session, reinstall nautilus",medium,now ls -l doesn't respond and gnome panels are messed up and nautilus can't start,3
+user_error,k3b-setup,user unable to find unfsck link,check the documentation or search online for unfsck,low,or is there a link to unfsck? i.e. i know it was mentioned in k3b-setup,1
+user_error,k3b-setup,user unable to find unfsck link,check the documentation or search online for unfsck link,low,or is there a link to unfsck? i.e. i know it was mentioned in k3b-setup,1
+user_error,applications,user confusion,explain the purpose and functionality of the applications,low,what did you do with those applications?,9
+software,iptables script,script not functioning as expected,check script for syntax errors or logical issues,low,"(I use a homebrewed iptables script, so I'm afraid I can't necessarily assist.)",0
+software,iptables script,script not functioning as expected,check script for syntax errors or logical flaws,low,"(I use a homebrewed iptables script, so I'm afraid I can't necessarily assist.)",0
+user_error,,user is confused about the status of their applications,inform the user that the applications are still active and running,low,what did you do with those applications?,9
+hardware,power supply,system does not boot,"check power supply, replace if necessary",low,does it work after a reboot?,1
+software hang,application,system hangs or freezes,restart the application or system,low,or gets hung?,1
+,,,,,sure doesn't,1
+kernel issue,kernel,command does not respond,"check for kernel oops messages, restart the system if necessary",critical,"usually if that command doesn't respond, you have a serious problem like a kernel oops",2
+command_not_responding,ls_command,ls -l /home/lance doesn't respond,run the command as a non-root user or check if there are any issues with the /home/lance directory,low,"i launched them under 'sudo -s' and configured them, or would there be another reason why ls -l /home/lance doesn't respond?",1
+,,,,,sure doesn't,1
+hardware,power supply,system does not boot,"check power supply, replace if necessary",low,does it work after a reboot?,1
+command_not_responding,ls_command,ls -l /home/lance doesn't respond,run the command as a non-root user or check if there are any issues with the /home/lance directory,low,"i launched them under 'sudo -s' and configured them, or would there be another reason why ls -l /home/lance doesn't respond?",1
+software hang,application,system hangs or freezes,restart the application or system,low,or gets hung?,1
+kernel issue,kernel,command does not respond,"check for kernel oops messages, restart the system if necessary",critical,"usually if that command doesn't respond, you have a serious problem like a kernel oops",2
+kernel booting issue,kernel,system hangs or fails to boot,try booting with a different kernel,low,"let me try booting another kernel, brb",6
+kernel booting issue,kernel,system fails to boot,try booting another kernel,low,"let me try booting another kernel, brb",6
+software issue,array 4,not functioning as expected,check the logs for errors related to array 4,low,how's array 4 working out?,1
+software issue,array 4,functionality issues,check the logs for errors related to array 4,low,how's array 4 working out?,1
+display,crt,display not working,replace crt,low,"Hoary system itself seems fine, but I can't use the display since the crt is kaput. :)",1
+display,crt,display not working,replace crt,low,"Hoary system itself seems fine, but I can't use the display since the crt is kaput. :)",1
